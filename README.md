@@ -1,38 +1,42 @@
+<img src="checkers (2).jpg" width="100%">
+
+<table>
+
+<td width="30%" align="center" valign="top">
+
+<img src= "top1.png" width="100%">
+<img src="mitsuhide.svg" width="90%">
 
 
-<img align="center" src="checkers (2).jpg" width="100%">
-
-<img align="right" src="mitsuhidelul.png" width="60%">
+<img src="mitsuhideframe.png" width="100%">
 
 
-<p align="center">
-<img src="top1.png" width="38%">
-</p>
-
-<p align="center">
- <img src="mitsuhide.svg" width="35%">
-</p>
-
-<p align="center">
- <img src="mitsuhideframe.png" width="35%">
-</p>
-
-<p align="center">
-  <img src="mitsuhide3.svg" width="35%">
-</p>
+<img src="div.png" width="100%">
+<br><br>
+<img src="mitsuhide2.svg" width="100%">
+<br><br>
+<img src="mitsuhide3.svg" width="100%">
 
 <p align="center">
-<img src="bot1.png" width="35%">
+  <img src="mitsuhidemaaxxing (1).png" width="25%">
+  <img src="New Project.png" width="25%">
+  <img src="New Project (1).png" width="25%">
 </p>
 
+<img src="bot1.png" width="100%">
 
-<p align="center">
-<img align="right" src="mitsuhidemaaxxing (1).png" width="15%">
-<img src="New Project.png" width="15%">
-<img align="left" src="New Project (1).png" width="15%">
-</p>
 
-<img align="center" src="checkers (2).jpg" width="100%">
+<td width="60%" align="center" valign="top">
+
+<img src= "div.png" width="100%">
+<img src="mitsuhidelul.png" width="100%">
+<img src= "div.png" width="100%">
+
+
+</table>
+
+
+<img src="checkers (2).jpg" width="100%">
 
 
 
