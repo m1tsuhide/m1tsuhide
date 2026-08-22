@@ -15,10 +15,10 @@
 <br><br>
 <img src="mitsuhide2.svg" width="100%">
 <p align="center">
-  <img width="100" height="56" alt="0481" src="https://github.com/user-attachments/assets/3926cd05-b55f-474e-9a11-82befd02fda7" />
+  
 </p>
 <img src="mitsuhide3.svg" width="100%">
-
+<img src="mitsu (1).gif" width="25%">
 <p align="center">
   <img src="mitsuhidemaaxxing (1).png" width="25%">
   <img src="New Project.png" width="25%">
@@ -33,8 +33,7 @@
 <img src= "div.png" width="100%">
 <img src="mitsuhidelul.png" width="100%">
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=m1tsuhide&color=7b4286&flat-square&label=&#2716;&#8256;&#10164;" />
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=m1tsuhide&color=7b4286&flat-square&label=&#2716;&#8256;&#10164;" /><img width="100" height="56" alt="0481" src="https://github.com/user-attachments/assets/3926cd05-b55f-474e-9a11-82befd02fda7" />
 <img src= "div.png" width="100%">
 
 
