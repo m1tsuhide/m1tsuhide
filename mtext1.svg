@@ -1,0 +1,49 @@
+<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="loop">
+
+      <stop offset="0%">
+        <animate
+          attributeName="stop-color"
+          values="#3d0d35;#7b4286;#a299b8;#3d0d35"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="50%">
+        <animate
+          attributeName="stop-color"
+          values="#7b4286;#a299b8;#3d0d35;#7b4286"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%">
+        <animate
+          attributeName="stop-color"
+          values="#a299b8;#3d0d35;#7b4286;#a299b8"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+
+    </linearGradient>
+
+  </defs>
+
+  <text
+    x="450"
+    y="90"
+    fill="url(#loop)"
+    font-size="72"
+    font-family="Garamond"
+    font-weight="bold"
+    text-anchor="middle"
+    dominant-baseline="middle">
+
+    Love of the Hunt
+
+  </text>
+
+</svg>
