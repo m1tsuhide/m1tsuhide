@@ -31,10 +31,9 @@
 <td width="60%" align="center" valign="top">
 
 <img src= "div.png" width="100%">
+<br><br>
 <img src="mitsuhidelul.png" width="100%">
-<br><br>
-<img width="100" height="56" alt="0481" src="https://github.com/user-attachments/assets/3926cd05-b55f-474e-9a11-82befd02fda7" />
-<br><br>
+<img src= "mtext1.svg" width="50%">
 <img src= "div.png" width="100%">
 
 
